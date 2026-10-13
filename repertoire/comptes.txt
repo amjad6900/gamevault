@@ -1,0 +1,7 @@
+# ================================================
+# GAMEVAULT - REPERTOIRE DES COMPTES
+# Format : ID | NOM | EMAIL | MOT_DE_PASSE | ROLE | DATE
+# ================================================
+
+admin | Admin | admin@gamevault.com | admin123 | admin | 06/03/2026 11:27
+1772792947 | zizi | amjadgamerpro48@gmail.com | AAAAAAAA | user | 06/03/2026 11:29
